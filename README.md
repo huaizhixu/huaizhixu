@@ -6,4 +6,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huaizhixu&layout=compact&theme=vue-dark)
 
+![:huaizhixu](https://count.getloli.com/get/@:huaizhixu?theme=rule34)
+
 
